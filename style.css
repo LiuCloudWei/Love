@@ -5,7 +5,7 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background: url('https://cdn.glitch.global/3d6901d6-b481-4ce6-b4a8-7d7b87cc95b4/photo1.jpg?v=1716213388705') no-repeat center center fixed;
+    background: url('https://cdn.glitch.global/23645e7b-40c3-4265-bbc6-e327e671ff2c/photo1.jpg?v=1719329636343') no-repeat center center fixed;
     background-size: cover;
     transition: background-image 1s ease-in-out;
     backdrop-filter: blur(10px); /* 添加毛玻璃效果 */
