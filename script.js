@@ -1,10 +1,10 @@
 // 预加载图片和音乐
 const images = [
-    'https://cdn.glitch.global/3d6901d6-b481-4ce6-b4a8-7d7b87cc95b4/photo1.jpg?v=1716213388705',
-    'https://cdn.glitch.global/3d6901d6-b481-4ce6-b4a8-7d7b87cc95b4/photo2.jpg?v=1716213387098',
-    'https://cdn.glitch.global/3d6901d6-b481-4ce6-b4a8-7d7b87cc95b4/photo3.jpg?v=1716213390818',
-    'https://cdn.glitch.global/3d6901d6-b481-4ce6-b4a8-7d7b87cc95b4/photo4.jpg?v=1716213392264',
-    'https://cdn.glitch.global/3d6901d6-b481-4ce6-b4a8-7d7b87cc95b4/photo5.jpg?v=1716213393653'
+'https://cdn.glitch.global/23645e7b-40c3-4265-bbc6-e327e671ff2c/photo1.jpg?v=1719329636343',
+'https://cdn.glitch.global/23645e7b-40c3-4265-bbc6-e327e671ff2c/photo2.jpg?v=1719329638032',
+'https://cdn.glitch.global/23645e7b-40c3-4265-bbc6-e327e671ff2c/photo3.jpg?v=1719329639873',
+'https://cdn.glitch.global/23645e7b-40c3-4265-bbc6-e327e671ff2c/photo4.jpg?v=1719329641487',
+'https://cdn.glitch.global/23645e7b-40c3-4265-bbc6-e327e671ff2c/photo5.jpg?v=1719329643046'
 ];
 const audio = new Audio('https://cdn.glitch.global/3d6901d6-b481-4ce6-b4a8-7d7b87cc95b4/music.mp3?v=1716213383323');
 
